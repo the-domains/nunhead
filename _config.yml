@@ -1,0 +1,28 @@
+name: Nunhead
+favicon: null
+layout_spectrum: 0.5587665892671794
+typography_spectrum: 0.3464397394564003
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5725551208015531
+  lightness: 0.1251936974003911
+  saturation: 0.6305341273546219
+  rhythmicContrast: 0.5941356117837131
+purpose: []
